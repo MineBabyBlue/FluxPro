@@ -2,8 +2,8 @@
   "item": {
     "id": "979886109406",
     "restype": "watchface",
-    "name": "FluxPro流转表盘",
-    "description": "# FluxPro 表盘 \n\n**一块会流动的表盘。** \n\n*A watch face that flows.*\n\n屏幕分上下两层，各一套颜色。每一秒，上层的下沿往下退一点，一分钟退完，整块屏幕被另一种颜色接管；到点两层互换，接着流下去。所以你看到的不是跳变，而是一分钟一次的、无缝的颜色接力。\n\n*The screen is two layers, each with its own palette. Every second the upper layer's lower edge recedes a little; after one minute it's gone and the other color has taken over. Then the two palettes swap and the flow continues — a seamless hand-off of color, once a minute.*\n\n**三种风格 / Three styles**\n\n| 经典 Classic | 渐变 Gradient | 线条 Line |\n| --- | --- | --- |\n| 大数字，经典不过时<br>*Big numerals, quietly timeless* | 多一层纹理，更有体积<br>*An extra texture layer for depth* | 描边数字 + 水线，最显手细<br>*Outline digits + waterline, the lightest look on the wrist* |\n\n**100+ 组**成对配色 · **200+ 张**单层配色 · **10+ 种**材质\n*100+ color pairs · 200+ single palettes · 10 materials*\n\n---\n\n## 支持型号 / Supported devices\n\n| 型号 / Model |\n| --- |\n| 小米手环 10 / Xiaomi Smart Band 10 |\n| 小米手环 10 Pro / Xiaomi Smart Band 10 Pro |\n| 小米手环 9 Pro / Xiaomi Smart Band 9 Pro |\n| 红米手表 6 / Redmi Watch 6 |\n\n含电量、日期、步数、心率、天气、风向；抬腕渐亮可关闭；八种界面语言，两处自定义跳转。\n\n*Battery, date, steps, heart rate, weather and wind direction included. The wake fade can be turned off. Eight interface languages, two custom shortcuts.*\n\n## 问题反馈 / Feedback\n\n- QQ 群 / QQ group：**114772806**\n\n新配色不定时更新，后续更新免费。\n\n*New palettes are added from time to time. One-time purchase — all future updates included.*",
+    "name": "Flux Pro流转表盘",
+    "description": "# Flux Pro 表盘 \n\n**一块会流动的表盘。** \n\n*A watch face that flows.*\n\n屏幕分上下两层，各一套颜色。每一秒，上层的下沿往下退一点，一分钟退完，整块屏幕被另一种颜色接管；到点两层互换，接着流下去。所以你看到的不是跳变，而是一分钟一次的、无缝的颜色接力。\n\n*The screen is two layers, each with its own palette. Every second the upper layer's lower edge recedes a little; after one minute it's gone and the other color has taken over. Then the two palettes swap and the flow continues — a seamless hand-off of color, once a minute.*\n\n**三种风格 / Three styles**\n\n| 经典 Classic | 渐变 Gradient | 线条 Line |\n| --- | --- | --- |\n| 大数字，经典不过时<br>*Big numerals, quietly timeless* | 多一层纹理，更有体积<br>*An extra texture layer for depth* | 描边数字 + 水线，最显手细<br>*Outline digits + waterline, the lightest look on the wrist* |\n\n**100+ 组**成对配色 · **200+ 张**单层配色 · **10+ 种**材质\n*100+ color pairs · 200+ single palettes · 10 materials*\n\n---\n\n## 支持型号 / Supported devices\n\n| 型号 / Model |\n| --- |\n| 小米手环 10 / Xiaomi Smart Band 10 |\n| 小米手环 10 Pro / Xiaomi Smart Band 10 Pro |\n| 小米手环 9 Pro / Xiaomi Smart Band 9 Pro |\n| 红米手表 6 / Redmi Watch 6 |\n\n含电量、日期、步数、心率、天气、风向；抬腕渐亮可关闭；八种界面语言，两处自定义跳转。\n\n*Battery, date, steps, heart rate, weather and wind direction included. The wake fade can be turned off. Eight interface languages, two custom shortcuts.*\n\n## 问题反馈 / Feedback\n\n- QQ 群 / QQ group：**114772806**\n\n新配色不定时更新，后续更新免费。\n\n*New palettes are added from time to time. One-time purchase — all future updates included.*\n\n---\n\n`#小米手环10表盘` `#小米手环10pro表盘` `#红米手表6表盘` `#手环表盘` `#大数字表盘` `#大字体表盘` `#极简表盘` `#动态表盘` `#息屏显示` `#BabyBlue`\n`#XiaomiSmartBand10` `#SmartBand10Pro` `#RedmiWatch6` `#watchface` `#minimalwatchface` `#AOD`",
     "preview": [
       "media/RW6基础.webp",
       "media/r6基础渐变.webp",
@@ -17,7 +17,7 @@
       "media/渐变色.webp",
       "media/皮肤切换方便.webp"
     ],
-    "icon": "media/PixPin_2026-11-18_21-38-18.png",
+    "icon": "media/未标题-1.png",
     "cover": "media/2比3.jpg",
     "author": [
       {
